@@ -7169,6 +7169,13 @@ button.bg-dark:focus {
   display: inline-flex !important;
 }
 
+/* same size for images */
+.subject {
+  width: 400px;
+  height: 350px;
+}
+
+
 @media (min-width: 576px) {
   .d-sm-none {
     display: none !important;
