@@ -1,21 +1,26 @@
+/* navbar name of app - lowercase */
+#mainNav .navbar-brand  {
+    text-transform: capitalize;
+}
+
 /* same size for images */
 .subject {
     width: 400px;
     height: 350px;
   }
   
-  /* list of subjects within the  main Subject */
-  .list-subjects li {
-    list-style-type:none;
-    font-size: 2em;
-    font-weight: 600;
-    line-height: 1.8;
-  }
+/* list of subjects within the  main Subject */
+.list-subjects li {
+list-style-type:none;
+font-size: 2em;
+font-weight: 600;
+line-height: 1.8;
+}
 
-  .list-subjects {
-    padding-left: 0px;
-  }
-  
-  .btn.btn-primary {
-     margin-top: 2em;
-  }
+.list-subjects {
+padding-left: 0px;
+}
+
+.btn.btn-primary {
+    margin-top: 2em;
+}
