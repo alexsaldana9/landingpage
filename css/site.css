@@ -24,3 +24,8 @@ padding-left: 0px;
 .btn.btn-primary {
     margin-top: 2em;
 }
+
+.list-subjects.small-text li {
+    font-size: 1.2em;
+}
+    
